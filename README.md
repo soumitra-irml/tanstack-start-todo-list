@@ -1,3 +1,5 @@
+# [Video Link](https://www.youtube.com/watch?v=KsHbs5RMVYU)
+
 Welcome to your new TanStack app! 
 
 # Getting Started
